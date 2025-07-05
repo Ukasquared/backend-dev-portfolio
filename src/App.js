@@ -1,4 +1,4 @@
-import { Component } from "react";
+import React, { Component } from "react";
 import $ from "jquery";
 import "./App.scss";
 import Header from "./components/Header";
