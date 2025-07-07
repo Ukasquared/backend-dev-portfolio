@@ -5,14 +5,20 @@
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/ukasquared",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "x",
+          "url": "https://x.com/judithukachukwu",
+          "class": "fa-brands fa-x-twitter"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/judith-ukachukwu/",
+          "class": "fa-brands fa-linkedin"
         }
+
       ],
       "image": "myProfile.jpg"
     },

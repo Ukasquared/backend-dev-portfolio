@@ -81,37 +81,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Amarah Solutions",
+        "title": "Back-End Engineer",
+        "years": "2025",
         "mainTech": [
-          "Angular 8/9/10"
+          "Nestjs"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Nodejs",
+          "mongod",
+          "postgresql",
+          "CI/CD",
+          "Docker"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Algorithmia",
+        "title": "Back-End Engineer / Front-End Engineer",
+        "years": "2023",
         "mainTech": [
-          "Angular 7/8"
+          "Flask"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Python",
+          "Mysql",
+          "React",
+          "REST API"
         ]
       }
     ]
