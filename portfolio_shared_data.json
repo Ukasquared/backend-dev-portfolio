@@ -11,12 +11,12 @@
         {
           "name": "x",
           "url": "https://x.com/judithukachukwu",
-          "class": "fa-brands fa-x-twitter"
+          "class": "fab fa-twitter"
         },
         {
           "name": "linkedIn",
           "url": "https://www.linkedin.com/in/judith-ukachukwu/",
-          "class": "fa-brands fa-linkedin"
+          "class": "fab fa-linkedin"
         }
 
       ],
