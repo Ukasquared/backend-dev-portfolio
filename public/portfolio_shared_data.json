@@ -19,6 +19,42 @@
     "skills": {
       "icons": [
         {
+          "name": "Nodejs",
+          "class": "devicon-nodejs-plain",
+          "level": "80"
+        },
+        {
+          "name": "python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Nestjs",
+          "class": "devicon-nestjs-original",
+          "level": "80"
+        },
+        {
+          "name": "Flask",
+          "class": "devicon-flask-original",
+          "level": "80"
+        },
+        {
+          "name": "Postgres",
+          "class": "devicon-postgresql-plain",
+          "level": "80"
+        },
+        {
+          "name": "Mongod",
+          "class": "devicon-mongodb-plain",
+          "level": "80"
+        },
+         {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+        
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -27,11 +63,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
         },
         {
           "name": "TypeScript",
@@ -44,25 +75,16 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "C",
+          "class": "devicon-c-plain",
           "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
+       
       ]
     }
   }
