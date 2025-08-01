@@ -11,46 +11,30 @@
     },
     "projects": [
       {
-        "title": "Eccomerce Food Store",
+        "title": "Ecommerce Food Store",
         "startDate": "2025",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "This is a fullstack project that expanded my knowledge on how to design backend systems and services",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/landing-image/p1.jpg",
+          "images/portfolio/landing-image/p2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-nestjs-original",
+            "name": "Nestjs"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-nextjs-original-wordmark colored",
+            "name": "Nextjs"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-postgresql-plain colored",
+            "name": "Postgres"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-mongodb-plain",
+            "name": "Mongodb"
           }
         ]
       }
